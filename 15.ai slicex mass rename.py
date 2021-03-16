@@ -1,5 +1,6 @@
-import os
+#rename each file acquired from 15.ai processed to slicex into their more appropriate names
 
+import os
 
 lyrics="Switch on the pow wer line Rem mem ber to put on2 Pro tec tion Lay down your pie ces And let's beg gin Ob ject cre ea tion2"
 lyrics2="Fill in my da ta pa ra me ters In2 it tiali za tion3 Set up our new world And2 let's2 beg2 gin2 the2 Si mu la tion4"
