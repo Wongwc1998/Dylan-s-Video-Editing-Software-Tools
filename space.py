@@ -1,3 +1,4 @@
+#this is the main file used to automatically change each syllable to the midi note lengths
 import sox, mido, numpy as np
 
 import soundfile as sf
