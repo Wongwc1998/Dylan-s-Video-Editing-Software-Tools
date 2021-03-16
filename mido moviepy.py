@@ -1,16 +1,13 @@
-import sys
-#!{sys.executable} -m pip install --user mido pyautogui numpy
+#this is a wip file that I'll update later when I feel like it, makes movie clips according to midi note length acquired from mido with moviepy
 
+import sys
 import moviepy.editor as mp
 import moviepy.video.fx.all as vfx
 import os
-#import random
-
 import mido
 import pyautogui
 import time
 import numpy as np
-
 # importing all the packages that we'll use
 
 notes_raw = []
