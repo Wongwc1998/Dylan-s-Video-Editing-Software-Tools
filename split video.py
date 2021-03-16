@@ -1,3 +1,4 @@
+#split video length due to their syllable length using moviepy
 import sox
 
 import moviepy.editor as mp
